@@ -22,5 +22,6 @@ User Events ─▶ CloudWatch ─▶ EventBridge ─▶ Lambda (Analyzer)
 └──▶ SNS Alerts ▶ Email 
 
 👥 Authors
-Umasanakar Vedala – DevOps Engineer
+
+  Umasanakar Vedala – DevOps Engineer
 
