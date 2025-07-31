@@ -17,3 +17,10 @@ PulseWatch is a serverless, event-driven monitoring system designed to track and
 
 ## 🧱 Architecture Overview
 
+User Events ─▶ CloudWatch ─▶ EventBridge ─▶ Lambda (Analyzer)
+│
+└──▶ SNS Alerts ▶ Email 
+
+👥 Authors
+Umasanakar Vedala – DevOps Engineer
+
